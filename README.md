@@ -1,4 +1,5 @@
-Codigo feito a partir do Desafio do Site [DevChallenge](https://devchallenge.com.br/challenges)
+Codigo feito em HTML e CSS a partir do Desafio do Site [DevChallenge](https://devchallenge.com.br/challenges)
+ainda não fiz a validação do formulário em JS.
 
 Abaixo deixo as instruções originais do criador do conteúdo.
 
