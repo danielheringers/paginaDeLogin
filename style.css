@@ -129,4 +129,5 @@ main .imgContainer img{
     max-height: 758px;
     transform: translateX(-270px);
     margin: 20px auto;
+    z-index: 1;
 }
