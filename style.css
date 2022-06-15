@@ -111,6 +111,14 @@ main form .submit{
     
 }
 
+main form .submit:hover{
+    background-color: #363636;
+    color: rgb(255, 255, 255);
+    margin-top: 46px;
+    z-index: 2;
+}
+
+
 main .containerLogin .problemLog{
     display: flex;
     flex-direction: column;
